@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: productDataservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: cn.how2j.springcloud
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud/productDataservice
+Created-By: Maven Integration for Eclipse
+
